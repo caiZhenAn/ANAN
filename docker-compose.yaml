@@ -21,16 +21,6 @@ services:
       volumes:
         - ./data/mysql:/var/lib/mysql
       restart: always
-  redis.ftqq.com:
-      image: ccr.ccs.tencentyun.com/ftqq/redis
-      expose:
-        - "6379"
-      restart: always
-  livereload:
-    image: ccr.ccs.tencentyun.com/ftqq/livereload
-    ports:
-      - "35729:35729"
-    volumes:
-      - "./data:/usr/src/livereload-watch"       
+    
 
     
