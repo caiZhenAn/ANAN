@@ -40,6 +40,6 @@ class __TwigTemplate_cb8e3eba29879a97df5de8990d64ed0d9e62ffcfd410acce2eebfc3e3a5
 
     public function getSourceContext()
     {
-        return new Twig_Source("", "config/form_display/form_bottom.twig", "/data/myAdmin/templates/config/form_display/form_bottom.twig");
+        return new Twig_Source("", "config/form_display/form_bottom.twig", "/data/myadmin/templates/config/form_display/form_bottom.twig");
     }
 }

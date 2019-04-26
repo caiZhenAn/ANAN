@@ -61,6 +61,6 @@ class __TwigTemplate_a37e0bb793353ba39d07c6ec9f8833a7c61d7842cc9a277e3b6bc46c0ef
 
     public function getSourceContext()
     {
-        return new Twig_Source("", "filter.twig", "/data/myAdmin/templates/filter.twig");
+        return new Twig_Source("", "filter.twig", "/data/myadmin/templates/filter.twig");
     }
 }

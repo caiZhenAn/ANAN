@@ -40,6 +40,6 @@ class __TwigTemplate_0507431d5c321fb6a7bed3e5064615104e638dc54a206f39df28cae4a42
 
     public function getSourceContext()
     {
-        return new Twig_Source("", "login/footer.twig", "/data/myAdmin/templates/login/footer.twig");
+        return new Twig_Source("", "login/footer.twig", "/data/myadmin/templates/login/footer.twig");
     }
 }

@@ -116,6 +116,6 @@ class __TwigTemplate_8009d63332eaf00e7f605baeac800c119b78f6053bb7ded0106f66497e9
 
     public function getSourceContext()
     {
-        return new Twig_Source("", "select_lang.twig", "/data/myAdmin/templates/select_lang.twig");
+        return new Twig_Source("", "select_lang.twig", "/data/myadmin/templates/select_lang.twig");
     }
 }

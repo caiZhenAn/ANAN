@@ -78,6 +78,6 @@ class __TwigTemplate_ec29c4a2dfd07033f47e832f5b64a71ea3af448a3774daa33f284af0a7b
 
     public function getSourceContext()
     {
-        return new Twig_Source("", "console/toolbar.twig", "/data/myAdmin/templates/console/toolbar.twig");
+        return new Twig_Source("", "console/toolbar.twig", "/data/myadmin/templates/console/toolbar.twig");
     }
 }

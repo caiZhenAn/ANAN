@@ -98,6 +98,6 @@ class __TwigTemplate_23b77d5422246c8c13ef95f4540fa06734d957c51a924a86dbb8dbfb4e2
 
     public function getSourceContext()
     {
-        return new Twig_Source("", "config/form_display/fieldset_top.twig", "/data/myAdmin/templates/config/form_display/fieldset_top.twig");
+        return new Twig_Source("", "config/form_display/fieldset_top.twig", "/data/myadmin/templates/config/form_display/fieldset_top.twig");
     }
 }

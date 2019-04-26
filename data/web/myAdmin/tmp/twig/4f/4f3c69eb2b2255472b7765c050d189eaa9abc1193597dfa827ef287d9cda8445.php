@@ -72,6 +72,6 @@ class __TwigTemplate_172778d885f8de350b05bac903dc613bc8fb7c474c2c861a8d94f869505
 
     public function getSourceContext()
     {
-        return new Twig_Source("", "login/header.twig", "/data/myAdmin/templates/login/header.twig");
+        return new Twig_Source("", "login/header.twig", "/data/myadmin/templates/login/header.twig");
     }
 }

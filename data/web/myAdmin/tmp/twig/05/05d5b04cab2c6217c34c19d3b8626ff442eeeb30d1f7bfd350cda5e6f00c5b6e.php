@@ -74,6 +74,6 @@ class __TwigTemplate_20cce27403c88bb528a1fc8f51a7c809471163c3672e6bc8fa9416d9ae8
 
     public function getSourceContext()
     {
-        return new Twig_Source("", "config/form_display/fieldset_bottom.twig", "/data/myAdmin/templates/config/form_display/fieldset_bottom.twig");
+        return new Twig_Source("", "config/form_display/fieldset_bottom.twig", "/data/myadmin/templates/config/form_display/fieldset_bottom.twig");
     }
 }

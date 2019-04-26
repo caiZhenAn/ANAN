@@ -73,6 +73,6 @@ class __TwigTemplate_3b6351d8f672b021328cabd082b14698320948347638bc521ffd889da72
 
     public function getSourceContext()
     {
-        return new Twig_Source("", "navigation/logo.twig", "/data/myAdmin/templates/navigation/logo.twig");
+        return new Twig_Source("", "navigation/logo.twig", "/data/myadmin/templates/navigation/logo.twig");
     }
 }
